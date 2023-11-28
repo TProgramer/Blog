@@ -1,31 +1,30 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'Next.js Starter Blog',
-  author: 'Tails Azimuth',
-  headerTitle: 'TailwindBlog',
-  description: 'A blog created with Next.js and Tailwind.css',
-  language: 'en-us',
+  title: 'TProgramer`s 기술 블로그', // Line next to the URL adress bar and copyright at footer
+  author: '박 종호', // Blog Owner Config
+  headerTitle: 'DX 조각 모음', // Line for blog header
+  description: '배운 내용이 흩어지지 않게 끔, 지식을 경험의 조각으로 채워 나가고 있습니다.', // Description line below header
+  language: 'ko-KR', // 스크린 리더와 같은 웹 접근성 향상을 위한 설정
   theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
-  siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
-  siteLogo: '/static/images/logo.png',
+  siteUrl: 'https://blog-tprogramer.vercel.app',
+  siteRepo: 'https://github.com/TProgramer/Blog',
+  siteLogo: '/static/images/temp-logo.png',
   socialBanner: '/static/images/twitter-card.png',
-  mastodon: 'https://mastodon.social/@mastodonuser',
-  email: 'address@yoursite.com',
-  github: 'https://github.com',
-  twitter: 'https://twitter.com/Twitter',
-  facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
-  locale: 'en-US',
+  // mastodon: 'https://mastodon.social/@mastodonuser',
+  email: 'a41343095@gmail.com',
+  github: 'https://github.com/TProgramer',
+  // twitter: 'https://twitter.com/Twitter',
+  // facebook: 'https://facebook.com',
+  // youtube: 'https://youtube.com',
+  locale: 'ko-KR', // 지역 시간 정보에 활용
   analytics: {
     // If you want to use an analytics provider you have to add it to the
     // content security policy in the `next.config.js` file.
     // supports Plausible, Simple Analytics, Umami, Posthog or Google Analytics.
-    umamiAnalytics: {
-      // We use an env variable for this site to avoid other users cloning our analytics ID
-      umamiWebsiteId: process.env.NEXT_UMAMI_ID, // e.g. 123e4567-e89b-12d3-a456-426614174000
-    },
+    // umamiAnalytics: {
+    //   // We use an env variable for this site to avoid other users cloning our analytics ID
+    //   umamiWebsiteId: process.env.NEXT_UMAMI_ID, // e.g. 123e4567-e89b-12d3-a456-426614174000
+    // },
     // plausibleAnalytics: {
     //   plausibleDataDomain: '', // e.g. tailwind-nextjs-starter-blog.vercel.app
     // },
