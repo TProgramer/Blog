@@ -1,3 +1,33 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet" viewBox="344.5639097744361 330.27819548872174 111.73684210526318 91.21804511278197" width="53.87" height="43.61"><defs><path d="M453.3 331.28L453.3 359.85L388.64 418.5L388.64 388.42L453.3 331.28Z" id="aFZf6T5ED"></path><linearGradient id="gradientb2ThqnP5Op" gradientUnits="userSpaceOnUse" x1="420.97" y1="331.28" x2="420.97" y2="418.5"><stop style="stop-color: #06b6d4;stop-opacity: 1" offset="0%"></stop><stop style="stop-color: #67e8f9;stop-opacity: 1" offset="100%"></stop></linearGradient><path d="M410.23 331.28L410.23 359.85L345.56 418.5L345.56 388.42L410.23 331.28Z" id="a9fehgwfM"></path><linearGradient id="gradientk1wNV9Ostb" gradientUnits="userSpaceOnUse" x1="377.89" y1="331.28" x2="377.89" y2="418.5"><stop style="stop-color: #06b6d4;stop-opacity: 1" offset="0%"></stop><stop style="stop-color: #67e8f9;stop-opacity: 1" offset="100%"></stop></linearGradient></defs><g><g><use xlink:href="#aFZf6T5ED" opacity="1" fill="url(#gradientb2ThqnP5Op)"></use></g><g><use xlink:href="#a9fehgwfM" opacity="1" fill="url(#gradientk1wNV9Ostb)"></use></g></g></svg>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="32.000000pt" height="32.000000pt" viewBox="0 0 32.000000 32.000000" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <!-- <linearGradient id="bl-g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00a2ff" />
+      <stop offset="100%" stop-color="#004d80" />
+    </linearGradient> -->
+    <radialGradient id="yr-rg" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+      <stop offset="0%" stop-color="#c2e9fb" />  
+      <stop offset="100%" stop-color="#a1c4fd" />
+    </radialGradient>
+  </defs>
+
+  <g transform="translate(0.000000,32.000000) scale(0.100000,-0.100000)" fill="url(#yr-rg)" stroke="none">
+    <path class="gradient-logo" d="M110 283 c-76 -44 -79 -48 -79 -122 0 -36 3 -71 7 -76 9 -13 110 -75
+    122 -75 5 0 33 15 64 32 l56 33 0 82 0 81 -57 36 c-32 20 -60 36 -63 36 -3 0
+    -25 -12 -50 -27z m113 -23 c39 -25 47 -35 47 -60 0 -17 -3 -30 -7 -30 -3 0
+    -26 11 -50 25 l-43 26 0 -41 c0 -42 5 -46 30 -30 13 9 13 11 0 19 -22 15 -5
+    24 19 11 29 -15 26 -25 -14 -49 -19 -11 -35 -28 -35 -37 0 -13 3 -14 15 -4 8
+    6 20 10 26 8 7 -2 -1 -14 -19 -27 l-32 -22 -30 21 c-18 13 -30 30 -30 44 0 23
+    -17 46 -34 46 -5 0 -2 -8 7 -18 18 -19 23 -72 8 -72 -20 0 -30 30 -30 93 l0
+    68 47 29 c26 16 54 30 62 30 8 0 36 -14 63 -30z m47 -138 c0 -31 -13 -46 -71
+    -81 -36 -21 -38 -21 -68 -4 -17 10 -31 21 -31 26 0 11 14 8 38 -9 22 -15 26
+    -14 62 10 26 17 37 31 34 41 -6 16 12 45 27 45 5 0 9 -13 9 -28z"/>
+    <path d="M125 240 c-16 -11 -38 -19 -47 -16 -10 2 -18 0 -18 -5 0 -15 33 -10
+    68 11 32 20 32 20 65 0 34 -21 67 -26 67 -10 0 5 -7 7 -15 4 -8 -3 -30 3 -48
+    15 -41 25 -35 25 -72 1z"/>
+    <path d="M112 199 c-18 -12 -30 -24 -27 -27 2 -3 14 3 25 13 21 19 42 13 22
+    -7 -17 -17 -15 -73 3 -88 13 -11 15 -3 15 59 0 39 -1 71 -2 71 -2 0 -18 -10
+    -36 -21z"/>
+  </g>
+</svg>
